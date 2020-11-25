@@ -1,2 +1,10 @@
-msg = ""
-print()
+
+
+msg = "hello world"
+print(msg.capitalize())
+
+
+
+
+
+
